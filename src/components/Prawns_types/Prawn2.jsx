@@ -2,7 +2,7 @@ import React from 'react';
 import './Prawn1.css'; 
 import img1 from '../../assets/img2.png'; 
 
-export default function prawn2() {
+export default function Prawn2() {
   return (
     <div className="prawn-container">
       <div className="prawn-image">

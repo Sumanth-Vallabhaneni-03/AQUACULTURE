@@ -6,7 +6,7 @@ import RootLayout from './RootLayout';
 import RoutingError from './components/RoutingError'; 
 import Home from './components/Home/Home';
 import Prawn1 from './components/Prawns_types/Prawn1'
-import Prawn2 from './components/Prawns_types/prawn2';
+import Prawn2 from './components/Prawns_types/Prawn2';
 import Prawn3 from './components/Prawns_types/Prawn3';
 import Prawn4 from './components/Prawns_types/Prawn4';
 import Prawn5 from './components/Prawns_types/Prawn5';
