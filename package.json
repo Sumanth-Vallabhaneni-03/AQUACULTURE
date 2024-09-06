@@ -1,9 +1,13 @@
 {
+  "homepage" : "https://Sumanth-Vallabhaneni-03.github.io/AGRICULTURE",
   "name": "aqua-prawn",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start":"npm start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
